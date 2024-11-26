@@ -6,7 +6,7 @@ ajax_logout_url = 'http://172.16.1.1:8090/logout.xml'
 # Parameters for the logout request
 params = {
     'mode': '193',           # Logout mode
-    'username': 'lcse21516', # Username to log out
+    'username': '', # Username to log out
     'producttype': '0'        # Product type
 }
 
